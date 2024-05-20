@@ -1,0 +1,26 @@
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet Grooming.csproj.AssemblyReference.cache
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Dog.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form10.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form11.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form12.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form13.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.History.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form2.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form3.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form4.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form5.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form6.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form7.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form8.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Form9.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.LogIn.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Properties.Resources.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.UserControl1.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet Grooming.csproj.GenerateResource.cache
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet Grooming.csproj.CoreCompileInputs.cache
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\bin\Debug\Pet Grooming.exe.config
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\bin\Debug\Pet Grooming.exe
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\bin\Debug\Pet Grooming.pdb
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet_Grooming.Dashboard.resources
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet Grooming.exe
+C:\Users\Me\source\repos\Pet Grooming\Pet Grooming\obj\Debug\Pet Grooming.pdb
